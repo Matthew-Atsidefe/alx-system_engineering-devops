@@ -1,3 +1,5 @@
+#!/bin/bash
+
 julien@ubuntu:/tmp$ pwd
 
 /tmp
@@ -13,3 +15,4 @@ julien@ubuntu:~$ pwd
 /home/julien
 
 julien@ubuntu:~$ 
+
