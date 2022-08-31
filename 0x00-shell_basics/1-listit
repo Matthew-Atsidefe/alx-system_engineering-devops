@@ -1,1 +1,2 @@
-#!/bin/bash -rw-r--r-- 1 root root 4 Aug 31 08:24 0-current_working_directory                                                       -rw-r--r-- 1 root root 5 Aug 31 09:24 1-listit    
+#!/bin/bash -rw-r--r-- 1 root root 4 Aug 31 08:24 0-current_working_directory                                                      
+-rw-r--r-- 1 root root 5 Aug 31 09:24 1-listit    
